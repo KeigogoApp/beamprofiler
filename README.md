@@ -1,6 +1,5 @@
 # beamprofiler
-This is beamprofiler software.
-This is my first python software so this code is dirty.
+This is a beamprofiler software.
 
 Only support windows 10 and 640x480 resolution camera.
 
